@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jgfpmw7gr-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jgfpmw7gr-dotnet-basic
